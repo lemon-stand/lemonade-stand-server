@@ -1,3 +1,7 @@
+//	Lemonade Stand Server
+//	created by come219
+//
+
 package com.example.LemonadeStandSpringServer;
 
 import com.example.LemonadeStandSpringServer.player.Player;
@@ -17,7 +21,28 @@ import java.util.List;
 public class LemonadeStandSpringServerApplication {
 
 	public static void main(String[] args) {
+
+		System.out.println("________________________________");
+		System.out.println("Lemonade Stand Server");
+		System.out.println("created by 219");
+		System.out.println("using Spring");
+		System.out.println("________________________________");
+		System.out.println("Generates: Player Table");
+		System.out.println("Plans for: Inventory Table");
+
+
+
 		SpringApplication.run(LemonadeStandSpringServerApplication.class, args);
+
+
+
+		//gui??
+
+		// ways to consistently retrieve data or manage system
+
+		//console commands or something
+
+
 	}
 
 
