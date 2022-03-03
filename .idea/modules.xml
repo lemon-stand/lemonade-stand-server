@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LemonadeStandSpringServer/LemonadeStandSpringServer.iml" filepath="$PROJECT_DIR$/LemonadeStandSpringServer/LemonadeStandSpringServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LemonadeStandSpringServer/src.iml" filepath="$PROJECT_DIR$/LemonadeStandSpringServer/src.iml" />
     </modules>
   </component>
 </project>

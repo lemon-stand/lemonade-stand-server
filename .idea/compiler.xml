@@ -6,16 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="LemonadeStandSpringServer" />
+        <module name="src" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="LemonadeStandSpringServer" target="17" />
+      <module name="LemonadeStandSpringServer" target="16" />
+      <module name="src" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="LemonadeStandSpringServer" options="-parameters" />
+      <module name="src" options="-parameters" />
     </option>
   </component>
 </project>
